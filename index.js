@@ -29,7 +29,7 @@ const readLookupSync = () => {
 
 const lookup = readLookupSync();
 
-const findByCoords = (coords) => {
+const findByCoords = coords => {
   let [lon, lat] = coords;
 
   return lookup.find(tile => {
