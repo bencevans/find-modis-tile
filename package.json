@@ -1,6 +1,6 @@
 {
   "name": "find-modis-tile",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "dependencies": {
     "proj4": "^2.3.15"
   },
