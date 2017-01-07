@@ -1,4 +1,4 @@
-# find-modis-tile [![Build Status](https://travis-ci.org/bencevans/find-modis-tile.svg?branch=master)](https://travis-ci.org/bencevans/find-modis-tile)
+# find-modis-tile [![Build Status](https://travis-ci.org/bencevans/find-modis-tile.svg?branch=master)](https://travis-ci.org/bencevans/find-modis-tile) [![Coverage Status](https://coveralls.io/repos/github/bencevans/find-modis-tile/badge.svg?branch=master)](https://coveralls.io/github/bencevans/find-modis-tile?branch=master)
 
 > Find the MODIS X/Y for a given Longitude/Latitude
 
