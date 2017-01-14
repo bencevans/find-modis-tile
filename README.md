@@ -5,7 +5,7 @@
 ## Install
 
 ```
-$ npm install --save maxmin
+$ npm install --save find-modis-tile
 ```
 
 ## Usage
